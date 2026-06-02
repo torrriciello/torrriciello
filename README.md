@@ -14,10 +14,10 @@
 </p>
 
 <div align="center">  
-<a href="https://www.instagram.com/seu_instagram/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div> 
+<a href="https://www.linkedin.com/in/gabriel-victor-santos-torriciello-a9898a31a" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</div>
  
 ### Main skills:
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&labelColor=0D1117)&nbsp;
